@@ -9,3 +9,4 @@ This is a simple Node.js app that uses the MyMemory Translation API to translate
 3. Create a `.env` file with your RapidAPI key and host: MyMemory Translation API
 
 ## Usage
+Create the translation folder and files to store the data and set the get request for the desired languages.
