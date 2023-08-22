@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "email": "usame@gmail.gg",
+      "password": "1234",
+      "companyname": "RentVisie",
+      "firstname": "Usame",
+      "lastname": "Yuce",
+      "phone": "01010101010",
+      "postcode": "1011CX",
+      "houseNumber": "10",
+      "addition": "AD",
+      "street": "rap"
+    },
+    {
+      "email": "usame@gmail.gg",
+      "password": "1234",
+      "companyname": "RentVisie",
+      "firstname": "Usame",
+      "lastname": "Yuce",
+      "phone": "01010101010",
+      "postcode": "1011CX",
+      "houseNumber": "10",
+      "addition": "AD",
+      "street": "rap"
+    },
+    {
+      "email": "hel@gg.com",
+      "password": "123",
+      "companyname": "RentVisie",
+      "firstname": "usame",
+      "lastname": "yuce",
+      "phone": "12313213131",
+      "postcode": "1011MN",
+      "houseNumber": "10",
+      "addition": "10",
+      "street": "Rap"
+    },
+    {
+      "email": "hel@gg.com",
+      "password": "123",
+      "companyname": "RentVisie",
+      "firstname": "usame",
+      "lastname": "yuce",
+      "phone": "12313213131",
+      "postcode": "1011MN",
+      "houseNumber": "10",
+      "addition": "10",
+      "street": "Rap"
+    },
+    {
+      "email": "hel@gg.com",
+      "password": "123",
+      "companyname": "RentVisie",
+      "firstname": "usame",
+      "lastname": "yuce",
+      "phone": "12313213131",
+      "postcode": "1011MN",
+      "houseNumber": "10",
+      "addition": "10",
+      "street": "Rap"
+    },
+    {
+      "email": "hel@gg.com",
+      "password": "123",
+      "companyname": "RentVisie",
+      "firstname": "usame",
+      "lastname": "yuce",
+      "phone": "12313213131",
+      "postcode": "1011MN",
+      "houseNumber": "10",
+      "addition": "10",
+      "street": "Rap"
+    },
+    {
+      "email": "a@gg.gg",
+      "password": "",
+      "companyname": "ss",
+      "firstname": "a",
+      "lastname": "a",
+      "phone": "123123441321",
+      "postcode": "1011MN",
+      "houseNumber": "10",
+      "addition": "10",
+      "street": "rapen"
+    }
+  ]
+}
