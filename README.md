@@ -10,4 +10,3 @@ This is a simple Node.js app that uses the MyMemory Translation API to translate
    (https://rapidapi.com/translated/api/mymemory-translation-memory)
 
 ## Usage
-you can figure out how to use it's so simple man if you have problem with this app you can send me message.
