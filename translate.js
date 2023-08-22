@@ -1,15 +1,16 @@
 import fetch from "node-fetch";
 import fs from "fs";
+import dotenv from "dotenv";
 
+dotenv.config();
 const translateHandler = (endpoint) => async (req, res) => {
   const { word } = req.body;
   try {
     const response = await fetch(`${endpoint}&q=${word}`, {
       method: "GET",
       headers: {
-        "X-RapidAPI-Key": "4bd3494556msh1eacdfd3d8d0798p1ac640jsn3a5710098fed",
-        "X-RapidAPI-Host":
-          "translated-mymemory---translation-memory.p.rapidapi.com",
+        "X-RapidAPI-Key": process.env.RAPIDAPI_KEY,
+        "X-RapidAPI-Host": process.env.RAPIDAPI_HOST,
       },
     });
 
